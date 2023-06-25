@@ -24,7 +24,7 @@ To replicate or build upon this project, follow these steps:
 
 4. **Model Implementation** : Implement LSTM and RNN models using your chosen deep learning framework.
 
-5. **Model Training**: Train the LSTM and GRU models using the prepared training dataset.
+5. **Model Training**: Train the LSTM and RNN models using the prepared training dataset.
 
 6. **Model Evaluation**: Evaluate the trained models using the testing dataset and calculate relevant performance metrics.
 
